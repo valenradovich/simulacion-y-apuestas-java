@@ -1,0 +1,482 @@
+[
+   {
+      "partido": "Senegal vs Holanda",
+      "local": "Senegal",
+      "visitante": "Holanda",
+      "partido_numero": 1,
+      "grupo": "A",
+      "fecha": "21-11",
+      "horario": "07:00",
+      "estadio": "AL THUMAMA"
+   },
+   {
+      "partido": "Qatar vs Ecuador",
+      "local": "Qatar",
+      "visitante": "Ecuador",
+      "partido_numero": 2,
+      "grupo": "A",
+      "fecha": "21-11",
+      "horario": "13:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Inglaterra vs Iran",
+      "local": "Inglaterra",
+      "visitante":"Iran",
+      "partido_numero": 3,
+      "grupo": "B",
+      "fecha": "21-11",
+      "horario": "16:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "Estados Unidos vs Gales",
+      "local": "Estados Unidos",
+      "visitante": "Gales",
+      "partido_numero": 4,
+      "grupo": "B",
+      "fecha": "21-11",
+      "horario": "07:00",
+      "estadio": "AHMAD BIN ALI"
+   },
+   {
+      "partido": "Argentina vs Arabia Saudita",
+      "local": "Argentina",
+      "visitante": "Arabia Saudita",
+      "partido_numero": 5,
+      "grupo": "C",
+      "fecha": "22-11",
+      "horario": "07:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Mexico vs Polonia",
+      "local": "Mexico",
+      "visitante": "Polonia",
+      "partido_numero": 6,
+      "grupo": "C",
+      "fecha": "22-11",
+      "horario": "13:00",
+      "estadio": "AHMAD BIN ALI"
+   },
+   {
+      "partido": "Dinamarca vs Tunez",
+      "local": "Dinamarca",
+      "visitante": "Tunez",
+      "partido_numero": 7,
+      "grupo": "D",
+      "fecha": "22-11",
+      "horario": "10:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "Francia vs Australia",
+      "local": "Francia",
+      "visitante": "Australia",
+      "partido_numero": 8,
+      "grupo": "D",
+      "fecha": "22-11",
+      "horario": "16:00",
+      "estadio": "AL JANOUB"
+   },
+   {
+      "partido": "Alemania vs Japon",
+      "local": "Alemania",
+      "visitante": "Japon",
+      "partido_numero": 9,
+      "grupo": "E",
+      "fecha": "23-11",
+      "horario": "10:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "España vs Costa Rica",
+      "local": "España",
+      "visitante": "Costa Rica",
+      "partido_numero": 10,
+      "grupo": "E",
+      "fecha": "23-11",
+      "horario": "13:00",
+      "estadio": "AL THUMAMA"
+   },
+   {
+      "partido": "Marruecos vs Croacia",
+      "local": "Marruecos",
+      "visitante": "Croacia",
+      "partido_numero": 11,
+      "grupo": "F",
+      "fecha": "23-11",
+      "horario": "07:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Belgica vs Canada",
+      "local": "Belgica",
+      "visitante": "Canada",
+      "partido_numero": 12,
+      "grupo": "F",
+      "fecha": "23-11",
+      "horario": "16:00",
+      "estadio": "AHMAD BIN ALI"
+   },
+   {
+      "partido": "Suiza vs Camerun",
+      "local": "Suiza",
+      "visitante": "Camerun",
+      "partido_numero": 13,
+      "grupo": "G",
+      "fecha": "24-11",
+      "horario": "07:00",
+      "estadio": "AL JANOUB"
+   },
+   {
+      "partido": "Brasil vs Serbia",
+      "local": "Brasil",
+      "visitante": "Serbia",
+      "partido_numero": 14,
+      "grupo": "G",
+      "fecha": "24-11",
+      "horario": "16:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Uruguay vs Corea del Sur",
+      "local": "Uruguay",
+      "visitante": "Corea del Sur",
+      "partido_numero": 15,
+      "grupo": "H",
+      "fecha": "24-11",
+      "horario": "10:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "Portugal vs Ghana",
+      "local": "Portugal",
+      "visitante": "Ghana",
+      "partido_numero": 16,
+      "grupo": "H",
+      "fecha": "24-11",
+      "horario": "13:00",
+      "estadio": "974"
+   },
+   {
+      "partido": "Senegal vs Qatar",
+      "local": "Senegal",
+      "visitante": "Qatar",
+      "partido_numero": 17,
+      "grupo": "A",
+      "fecha": "25-11",
+      "horario": "10:00",
+      "estadio": "AL THUMAMA"
+   },
+   {
+      "partido": "Ecuador vs Holanda",
+      "local": "Ecuador",
+      "visitante": "Holanda",
+      "partido_numero": 18,
+      "grupo": "A",
+      "fecha": "25-11",
+      "horario": "13:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "Iran vs Gales",
+      "local": "Iran",
+      "visitante": "Gales",
+      "partido_numero": 19,
+      "grupo": "B",
+      "fecha": "25-11",
+      "horario": "07:00",
+      "estadio": "BIN AHLI"
+   },
+   {
+      "partido": "Inglaterra vs Estados Unidos",
+      "local": "Inglaterra",
+      "visitante": "Estados Unidos",
+      "partido_numero": 20,
+      "grupo": "B",
+      "fecha": "25-11",
+      "horario": "16:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Arabia Saudita vs Polonia",
+      "local": "Arabia Saudita",
+      "visitante": "Polonia",
+      "partido_numero": 21,
+      "grupo": "C",
+      "fecha": "26-11",
+      "horario": "10:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "Argentina vs Mexico",
+      "local": "Argentina",
+      "visitante": "Mexico",
+      "partido_numero": 22,
+      "grupo": "C",
+      "fecha": "26-11",
+      "horario": "16:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Australia vs Tunez",
+      "local": "Australia",
+      "visitante": "Tunez",
+      "partido_numero": 23,
+      "grupo": "D",
+      "fecha": "26-11",
+      "horario": "07:00",
+      "estadio": "AL JANOUB"
+   },
+   {
+      "partido": "Francia vs Dinamarca",
+      "local": "Francia",
+      "visitante": "Dinamarca",
+      "partido_numero": 24,
+      "grupo": "D",
+      "fecha": "26-11",
+      "horario": "13:00",
+      "estadio": "974"
+   },
+   {
+      "partido": "Costa Rica vs Japon",
+      "local": "Costa Rica",
+      "visitante": "Japon",
+      "partido_numero": 25,
+      "grupo": "E",
+      "fecha": "27-11",
+      "horario": "07:00",
+      "estadio": "AHMAD BIN ALI"
+   },
+   {
+      "partido": "España vs Alemania",
+      "local": "España",
+      "visitante": "Alemania",
+      "partido_numero": 26,
+      "grupo": "E",
+      "fecha": "27-11",
+      "horario": "16:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Belgica vs Marruecos",
+      "local": "Belgica",
+      "visitante": "Marruecos",
+      "partido_numero": 27,
+      "grupo": "F",
+      "fecha": "27-11",
+      "horario": "10:00",
+      "estadio": "AL THUMAMA"
+   },
+   {
+      "partido": "Canada vs Croacia",
+      "local": "Canada",
+      "visitante": "Croacia",
+      "partido_numero": 28,
+      "grupo": "F",
+      "fecha": "27-11",
+      "horario": "13:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "Serbia vs Camerun",
+      "local": "Serbia",
+      "visitante": "Camerun",
+      "partido_numero": 29,
+      "grupo": "G",
+      "fecha": "28-11",
+      "horario": "07:00",
+      "estadio": "AL JANOUB"
+   },
+   {
+      "partido": "Brasil vs Suiza",
+      "local": "Brasil",
+      "visitante": "Suiza",
+      "partido_numero": 30,
+      "grupo": "G",
+      "fecha": "28-11",
+      "horario": "13:00",
+      "estadio": "974"
+   },
+   {
+      "partido": "Ghana vs Corea del Sur",
+      "local": "Ghana",
+      "visitante": "Corea del Sur",
+      "partido_numero": 31,
+      "grupo": "H",
+      "fecha": "28-11",
+      "horario": "10:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "Portugal vs Uruguay",
+      "local": "Portugal",
+      "visitante": "Uruguay",
+      "partido_numero": 32,
+      "grupo": "H",
+      "fecha": "28-11",
+      "horario": "16:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Qatar vs Holanda",
+      "local": "Qatar",
+      "visitante": "Holanda",
+      "partido_numero": 33,
+      "grupo": "A",
+      "fecha": "29-11",
+      "horario": "12:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Ecuador vs Senegal",
+      "local": "Ecuador",
+      "visitante": "Senegal",
+      "partido_numero": 34,
+      "grupo": "A",
+      "fecha": "29-11",
+      "horario": "12:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "Inglaterra vs Gales",
+      "local": "Inglaterra",
+      "visitante": "Gales",
+      "partido_numero": 35,
+      "grupo": "B",
+      "fecha": "29-11",
+      "horario": "16:00",
+      "estadio": "BIN ALI"
+   },
+   {
+      "partido": "Iran vs Estados Unidos",
+      "local": "Iran",
+      "visitante": "Estados Unidos",
+      "partido_numero": 26,
+      "grupo": "B",
+      "fecha": "29-11",
+      "horario": "16:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Argentina vs Polonia",
+      "local": "Argentina",
+      "visitante": "Polonia",
+      "partido_numero": 375,
+      "grupo": "C",
+      "fecha": "30-11",
+      "horario": "16:00",
+      "estadio": "974"
+   },
+   {
+      "partido": "Arabia Saudita vs Mexico",
+      "local": "Arabia Saudita",
+      "visitante": "Mexico",
+      "partido_numero": 38,
+      "grupo": "C",
+      "fecha": "26-11",
+      "horario": "16:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Australia vs Dinamarca",
+      "local": "Australia",
+      "visitante": "Dinamarca",
+      "partido_numero": 39,
+      "grupo": "D",
+      "fecha": "30-11",
+      "horario": "12:00",
+      "estadio": "AL JANOUB"
+   },
+   {
+      "partido": "Francia vs Tunez",
+      "local": "Francia",
+      "visitante": "Tunez",
+      "partido_numero": 40,
+      "grupo": "D",
+      "fecha": "30-11",
+      "horario": "12:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "España vs Japon",
+      "local": "España",
+      "visitante": "Japon",
+      "partido_numero": 41,
+      "grupo": "E",
+      "fecha": "01-12",
+      "horario": "16:00",
+      "estadio": "INTERNACIONAL KHALIFA"
+   },
+   {
+      "partido": "Costa Rica vs Alemania",
+      "local": "Costa Rica",
+      "visitante": "Alemania",
+      "partido_numero": 42,
+      "grupo": "E",
+      "fecha": "01-12",
+      "horario": "16:00",
+      "estadio": "AL BAYT"
+   },
+   {
+      "partido": "Belgica vs Croacia",
+      "local": "Belgica",
+      "visitante": "Croacia",
+      "partido_numero": 43,
+      "grupo": "F",
+      "fecha": "01-12",
+      "horario": "12:00",
+      "estadio": "AHMAD BIN ALI"
+   },
+   {
+      "partido": "Canada vs Marruecos",
+      "local": "Canada",
+      "visitante": "Marruecos",
+      "partido_numero": 44,
+      "grupo": "F",
+      "fecha": "01-12",
+      "horario": "12:00",
+      "estadio": "AL THUMAMA"
+   },
+   {
+      "partido": "Brasil vs Camerun",
+      "local": "Brasil",
+      "visitante": "Camerun",
+      "partido_numero": 45,
+      "grupo": "G",
+      "fecha": "02-12",
+      "horario": "16:00",
+      "estadio": "LUSAIL"
+   },
+   {
+      "partido": "Serbia vs Suiza",
+      "local": "Serbia",
+      "visitante": "Suiza",
+      "partido_numero": 46,
+      "grupo": "G",
+      "fecha": "02-12",
+      "horario": "16:00",
+      "estadio": "974"
+   },
+   {
+      "partido": "Portugal vs Corea del Sur",
+      "local": "Portugal",
+      "visitante": "Corea del Sur",
+      "partido_numero": 47,
+      "grupo": "H",
+      "fecha": "02-12",
+      "horario": "12:00",
+      "estadio": "CIUDAD EDUCACION"
+   },
+   {
+      "partido": "Ghana vs Uruguay",
+      "local": "Ghana",
+      "visitante": "Uruguay",
+      "partido_numero": 48,
+      "grupo": "H",
+      "fecha": "02-12",
+      "horario": "12:00",
+      "estadio": "AL JANOUB"
+   }
+]

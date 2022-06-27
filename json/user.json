@@ -1,0 +1,11 @@
+{
+    "user": "valentin",
+    "password": "holahola",
+    "email": "valentin@gmail.com",
+    "dni": "12345",
+    "billetera": {
+        "balance": 0.0,
+        "ganancia": 0.0,
+        "dni": "12345"
+    }
+}
